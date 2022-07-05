@@ -50,7 +50,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#85CEFF"
+				"foreground": "#CDC7D4"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class, entity.name.type.class",
+			"scope": "entity.name.class, entity.name.type, variable.other.object",
 			"settings": {
 				"foreground": "#85CEFF"
 			}
@@ -194,8 +194,11 @@
 		"editor.wordHighlightBackground": "#57385988",
 		"editor.findMatchBackground": "#752e5999",
 		"editor.findMatchHighlightBackground": "#662e7588",
+		"editor.hoverHighlightBackground": "#752e5999",
+		"editorLink.activeForeground": "#ff7b88",
+		"editorCodeLens.foreground": "#655F77",
 		"editorError.foreground": "#D5526B",
-		"editorWarning.foreground": "#F5DE80",
+		"editorWarning.foreground": "#ffbe7d",
 		"editorInfo.foreground": "#85CEFF",
 		"problemsErrorIcon.foreground": "#D5526B",
 		"problemsWarningIcon.foreground": "#F5DE80",
@@ -297,6 +300,8 @@
 		"list.hoverBackground": "#362B3D",
 		"list.activeSelectionBackground": "#362B3D",
 		"list.inactiveSelectionBackground": "#362B3D",
+		"list.warningForeground": "#ffbe7d",
+		"list.errorForeground": "#D5526B",
 		"tab.activeBackground": "#211f23",
 		"tab.inactiveBackground": "#362B3D",
 		"textLink.activeForeground": "#ff7b88",
