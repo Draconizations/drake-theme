@@ -84,7 +84,7 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": "entity.name.class, entity.name.type.class",
 			"settings": {
 				"foreground": "#85CEFF"
 			}
@@ -274,6 +274,17 @@
 		"statusBarItem.errorBackground": "#FF858588",
 		"statusBarItem.errorForeground": "#ffffff",
 		"statusBarItem.prominentBackground": "#ae4467",
+		"peekView.border": "#ae4467",
+		"peekViewEditor.background": "#2B272E",
+		"peekViewEditor.matchHighlightBackground": "#752e59B3",
+		"peekViewEditorGutter.background": "#2B272E",
+		"peekViewResult.background": "#211f23",
+		"peekViewResult.fileForeground": "#9e91ad",
+		"peekViewResult.lineForeground": "#CDC7D4",
+		"peekViewResult.matchHighlightBackground": "#752e59B3",
+		"peekViewTitle.background": "#362B3D",
+		"peekViewTitleDescription.foreground": "#9e91ad",
+		"peekViewTitleLabel.foreground": "#CDC7D4",
 		"panel.background": "#211f23",
 		"panel.border": "#752e59",
 		"panel.dropBorder": "#D5526B",
