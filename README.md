@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "drake-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Drake
+*A warm theme with bright colors and a calm yet fiery palette.*
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+Currently a WIP for vscode.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![drake_theme_preview](https://user-images.githubusercontent.com/72747870/177423294-e97ccc37-bde5-4fed-a2df-dc764dc3d496.png)
 
-**Enjoy!**
+## Main Features
+- A dark, purple and pink background color palette
+- A small but bright text highlight palette
+- De-emphasized punctuation and keywords
+- A selection of missing colors. This is a WIP
+
+## License
+MIT
+
+## Contributing
+This repository is still in the process of being set up, so things will move around a lot. But contributions are welcome.
+
+As for porting, porting it to the following text editors is planned:
+- Sublime Text
+
+Feel free to go ahead and port it to others, though!
