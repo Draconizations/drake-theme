@@ -1,11 +1,6 @@
 {
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#CDC7D4"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -278,6 +273,7 @@
 		"statusBarItem.warningForeground": "#ffffff",
 		"statusBarItem.errorBackground": "#FF858588",
 		"statusBarItem.errorForeground": "#ffffff",
+		"statusBarItem.prominentBackground": "#ae4467",
 		"panel.background": "#211f23",
 		"panel.border": "#752e59",
 		"panel.dropBorder": "#D5526B",
@@ -326,7 +322,17 @@
 		"charts.lines": "#9e91ad",
 		"charts.orange": "#ffbe7d",
 		"charts.purple": "#ff64c1",
-		"charts.yellow": "#F5DE80"
+		"charts.yellow": "#F5DE80",
+		"gitDecoration.addedResourceForeground": "#9AEB7F",
+		"gitDecoration.conflictingResourceForeground": "#ff64c1",
+		"gitDecoration.deletedResourceForeground": "#FF8585",
+		"gitDecoration.ignoredResourceForeground": "#9e91ad",
+		"gitDecoration.modifiedResourceForeground": "#F5DE80",
+		"gitDecoration.renamedResourceForeground": "#85CEFF",
+		"gitDecoration.stageDeletedResourceForeground": "#FF8585",
+		"gitDecoration.stageModifiedResourceForeground": "#F5DE80",
+		"gitDecoration.submoduleResourceForeground": "#9e91ad",
+		"gitDecoration.untrackedResourceForeground": "#9AEB7F"
 	},
 	"name": "Drake"
 }

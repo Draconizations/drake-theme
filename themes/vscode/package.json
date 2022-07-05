@@ -1,8 +1,8 @@
 {
     "name": "drake-theme",
     "displayName": "Drake Theme",
-    "description": "A WIP color theme that is not that good, functional, or pretty yet",
-    "version": "0.0.1",
+    "description": "A warm theme with bright colors and a calm yet fiery palette.",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -14,7 +14,7 @@
             {
                 "label": "Drake",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Drake-color-theme.json"
+                "path": "./theme.json"
             }
         ]
     }
